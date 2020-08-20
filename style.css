@@ -1,0 +1,41 @@
+.title {
+	font-weight: bold;
+	font-size: 30px;
+	color: #77564b;
+}
+
+
+
+body {
+  background-color: #e8d7c7;
+	width:600px;
+	margin: 0 auto;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+
+.food{
+	display:flex;
+	justify-content:space-between;
+	padding-bottom:20px;
+	font-size:20px;
+}
+
+img{
+    border-radius: 50%;
+	width:200px;
+}
+
+.button{
+
+    background-color: #9595cc;
+    width: 200px;
+    margin: 0 auto;
+    height: 50px;
+	cursor:pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+	
+}
